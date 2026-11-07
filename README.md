@@ -4,7 +4,7 @@ Teeth es una aplicación mínima para Windows 10 y 11 de 64 bits que graba el au
 
 ## Descarga y uso
 
-Teeth se instala con `Teeth-Setup-1.0.1.exe`. El instalador no pide permisos de administrador: instala Teeth solo para tu usuario, en `%LOCALAPPDATA%\Programs\Teeth`, y añade un acceso en el menú Inicio; el del escritorio es opcional. El ejecutable no está firmado, así que Windows puede avisar de que el editor es desconocido: pulsa «Más información» y después «Ejecutar de todas formas». Para desinstalar Teeth, usa Configuración → Aplicaciones. Tus samples, tus ajustes y las tomas sin guardar se quedan donde están.
+Teeth se instala con `Teeth-Setup-1.0.1.exe`, que se descarga de la [última versión publicada](https://github.com/libogrr/teeth/releases/latest), en el apartado *Assets*. El instalador no pide permisos de administrador: instala Teeth solo para tu usuario, en `%LOCALAPPDATA%\Programs\Teeth`, y añade un acceso en el menú Inicio; el del escritorio es opcional. El ejecutable no está firmado, así que Windows puede avisar de que el editor es desconocido: pulsa «Más información» y después «Ejecutar de todas formas». Para desinstalar Teeth, usa Configuración → Aplicaciones. Tus samples, tus ajustes y las tomas sin guardar se quedan donde están.
 
 Al abrirse, Teeth muestra su logo parpadeando despacio sobre negro durante unos tres segundos, mientras arranca por debajo. Un clic o una tecla lo saltan.
 
