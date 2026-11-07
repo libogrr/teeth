@@ -1,0 +1,8 @@
+/target
+__pycache__/
+
+# Development notes that stay on the author's machine.
+/CLAUDE.md
+/docs/
+/.claude/
+/.superpowers/
